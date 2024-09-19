@@ -1,0 +1,6 @@
+![image](https://github.com/user-attachments/assets/b5c0f45b-7f6f-4d44-9a6a-c7e12432fdd7)
+
+# WebDregen
+A Windows 10/11 WinHTTP based server used for distributing files across a local network for further initial access in Offensive Cyberspace Operations.
+
+*NOTE:* This project has long since been abandoned. No further future development will ensue.
